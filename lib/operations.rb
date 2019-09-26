@@ -1,6 +1,6 @@
 
-def unsafe (speed)
+def unsafe? (speed)
   if speed > 60
- else "true"
+ puts "true"
   end
 end
